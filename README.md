@@ -1,9 +1,4 @@
 # ChatwithPDF
 Used Gemini pro API 
 
-dependencies-
-streamlit 
-os
-dotenv
-langchain
-google gemini pro API
+Made with love,dedication and passion for AI / ML 
